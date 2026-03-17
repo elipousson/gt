@@ -38,7 +38,7 @@ An object of class `gt_tbl`.
 The palettes displayed are organized by package and by palette name.
 These values are required when obtaining a palette (as a vector of
 hexadecimal colors), from
-[`paletteer::paletteer_d()`](https://rdrr.io/pkg/paletteer/man/paletteer_d.html).
+[`paletteer::paletteer_d()`](https://emilhvitfeldt.github.io/paletteer/reference/paletteer_d.html).
 Once we are familiar with the names of the color palette packages (e.g.,
 **RColorBrewer**, **ggthemes**, **wesanderson**), we can narrow down the
 content of this information table by supplying a vector of such package
@@ -119,5 +119,6 @@ Other information functions:
 [`info_google_fonts()`](https://gt.rstudio.com/reference/info_google_fonts.md),
 [`info_icons()`](https://gt.rstudio.com/reference/info_icons.md),
 [`info_locales()`](https://gt.rstudio.com/reference/info_locales.md),
+[`info_tf_style()`](https://gt.rstudio.com/reference/info_tf_style.md),
 [`info_time_style()`](https://gt.rstudio.com/reference/info_time_style.md),
 [`info_unit_conversions()`](https://gt.rstudio.com/reference/info_unit_conversions.md)

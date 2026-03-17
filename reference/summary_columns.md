@@ -194,7 +194,7 @@ file.](https://raw.githubusercontent.com/rstudio/gt/master/images/man_summary_co
 
 ## Function ID
 
-6-4
+6-6
 
 ## Function Introduced
 
@@ -205,5 +205,8 @@ file.](https://raw.githubusercontent.com/rstudio/gt/master/images/man_summary_co
 Other row addition/modification functions:
 [`grand_summary_rows()`](https://gt.rstudio.com/reference/grand_summary_rows.md),
 [`row_group_order()`](https://gt.rstudio.com/reference/row_group_order.md),
+[`row_order()`](https://gt.rstudio.com/reference/row_order.md),
 [`rows_add()`](https://gt.rstudio.com/reference/rows_add.md),
+[`rows_hide()`](https://gt.rstudio.com/reference/rows_hide.md),
+[`rows_unhide()`](https://gt.rstudio.com/reference/rows_unhide.md),
 [`summary_rows()`](https://gt.rstudio.com/reference/summary_rows.md)
